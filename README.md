@@ -1,4 +1,4 @@
-# Strip Pattern Generator
+# Interdigitation Simulator
 
 ## What?
 
