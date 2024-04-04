@@ -246,7 +246,7 @@ int drawRetrievedFinger(int[] niceData) {
   }
 
   // Retrieval method from Microchip TB3064 white paper (p12):
-  // microchip.com/stellent/groups/techpub_sg/documents/devicedoc/en550192.pdf
+  // https://web.archive.org/web/20210224230211/microchip.com/stellent/groups/techpub_sg/documents/devicedoc/en550192.pdf
   // Position is calculated as the centroid of 2 adjacent values:
 
   int prev = (maxIndex==0)?
